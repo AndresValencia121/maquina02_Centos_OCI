@@ -1,0 +1,1 @@
+# maquina02_Centos_OCI
